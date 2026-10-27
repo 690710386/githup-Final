@@ -1,2 +1,5 @@
-# githup-Final
-Final lab exam
+# My Profile
+## About Me
+- Nickname: Nemo
+- Major: CS
+- Year: 1
